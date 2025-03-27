@@ -13,6 +13,3 @@ Este projeto é um clone do Buzzfeed desenvolvido utilizando **Angular**. O prin
 - **Angular**: Framework utilizado para construção da aplicação.
 - **Bootstrap**: Framework para garantir uma responsividade eficiente.
 - **JavaScript/TypeScript**: Lógica de implementação.
-
-
-![Buzzfeed Clone](./src/assets/img/R.png)
